@@ -1,1 +1,1 @@
-# Amigo-Secreto
+# Proyecto: Amigo Secreto
